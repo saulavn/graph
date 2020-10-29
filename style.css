@@ -1,0 +1,85 @@
+body {
+    background-color: silver;
+}
+
+canvas {
+    border: solid 1px;
+}
+
+
+h1 {
+    margin: 20px auto 20px;
+    text-align: center; 
+    color: #ec0101;
+}
+
+h6 {
+    color: silver;
+}
+
+.graph {
+    background-color: #C0C0C0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    display: block;
+}
+
+.buttons {
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+}
+
+#visited {
+    color: #ffd900;
+}
+
+#distance {
+    color: #00ff00;
+}
+
+#time {
+    color: #2ba3ac;
+}
+
+.algo {
+    text-align: center;
+    margin-right: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#src {
+    text-align: left;
+}
+
+.btn {
+    margin-left: 5px;
+}
+
+canvas {
+    margin: 5px 0 0 0;
+}
+
+#canvas-div {
+    text-align: center;
+    background-color: silver;
+}
+
+.navbar-toggler { 
+    border-color: lightgreen; 
+} 
+.navbar {
+    margin: 0;
+}
